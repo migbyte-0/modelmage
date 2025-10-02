@@ -1,18 +1,4 @@
 
-Thank you for providing that output. Seeing the `https://www.google.com/search?...` link is the key piece of information we needed.
-
-This confirms that the problem is **not in the `README.md` file itself, but in the specific tool or program you are using to view it**.
-
-Some program, browser extension, or Markdown previewer on your system is incorrectly identifying the internal page links (like `#why-modelmage`) and "helpfully" converting them into Google search links. The Markdown syntax I've provided is correct and standard.
-
-**These links are guaranteed to work correctly when you view the file directly on the GitHub website.**
-
-However, I will honor your request and reformat the Table of Contents to use a numbered list, just like the `ArchFlow` example. Please try viewing this new `README.md` file on your actual GitHub repository page, and you will see that the links work perfectly there.
-
-Here is the complete, updated `README.md`.
-
------
-
 Done by **Migbyte** Team
 
 # ModelMage.nvim
