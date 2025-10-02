@@ -49,17 +49,17 @@ Magically generate your Flutter Freezed models directly within Neovim\!
 
 ### Table of Contents 📜
 
-1.  [Why ModelMage?](https://www.google.com/search?q=%23why-modelmage)
-2.  [Features](https://www.google.com/search?q=%23features)
-3.  [Screenshots](https://www.google.com/search?q=%23screenshots)
-4.  [Installation](https://www.google.com/search?q=%23installation)
-5.  [Usage](https://www.google.com/search?q=%23usage)
-6.  [Configuration](https://www.google.com/search?q=%23configuration)
-7.  [Dependencies](https://www.google.com/search?q=%23dependencies)
-8.  [Advanced Topics](https://www.google.com/search?q=%23advanced-topics)
-      * [Customizing Type Mappings](https://www.google.com/search?q=%23customizing-type-mappings)
-      * [Understanding the `toEntity()` Method](https://www.google.com/search?q=%23understanding-the-toentity-method)
-9.  [License](https://www.google.com/search?q=%23license)
+1.  [Why ModelMage?](#why-modelmage)
+2.  [Features](#features)
+3.  [Screenshots](#screenshots)
+4.  [Installation](#installation)
+5.  [Usage](#usage)
+6.  [Configuration](#configuration)
+7.  [Dependencies](#dependencies)
+8.  [Advanced Topics](#advanced-topics)
+      * [Customizing Type Mappings](#customizing-type-mappings)
+      * [Understanding the `toEntity()` Method](#understanding-the-toentity-method)
+9.  [License](#license)
 
 ### Why ModelMage?
 
