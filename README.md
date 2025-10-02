@@ -1,5 +1,5 @@
 
-Done by **Migbyte** Team
+Done by **Migbyte** 
 
 # ModelMage.nvim
 
