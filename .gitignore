@@ -1,1 +1,10 @@
 
+# IDE files
+.idea/
+.vscode/
+
+# Build artifacts
+*.luac
+
+# Test related
+plenary-test.out
