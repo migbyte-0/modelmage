@@ -1,6 +1,4 @@
 
------
-
 Done by **Migbyte** Team
 
 # ModelMage.nvim
@@ -209,7 +207,7 @@ You can customize ModelMage.nvim by passing options to the `setup` function:
 
 ### Advanced Topics
 
-#### 📂 Customizing Type Mappings
+#### Customizing Type Mappings
 
 You can extend the `type_mappings` table in your setup to add shortcuts for your own custom types or frequently used types. For example, to add a shortcut for `Uri`:
 
@@ -226,7 +224,7 @@ require("modelmage").setup({
 
 Now, when the wizard asks for a data type, you can simply enter `u`.
 
-#### 🔌 Understanding the `toEntity()` Method
+#### Understanding the `toEntity()` Method
 
 ModelMage automatically generates a `toEntity()` method to help you follow Clean Architecture principles. This method converts the Data Transfer Object (the `Model` used for parsing JSON) into a pure domain object (the `Entity`). This practice decouples your application's core business logic from the data layer, making your code more robust and testable.
 
