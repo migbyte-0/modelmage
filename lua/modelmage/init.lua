@@ -1,12 +1,5 @@
----
+-- lua/modelmage/init.lua
 
-### Lua Code
-
-#### `lua/modelmage/init.lua`
-
-This is the main entry point that users will interact with.
-
-```lua
 local config = require('modelmage.config')
 local handlers = require('modelmage.handlers')
 
